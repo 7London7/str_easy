@@ -10,3 +10,4 @@ void itc_first_end_three(string str);
 
 
 #endif // STREASY_H_INCLUDED
+//https://www.geeksforgeeks.org/how-to-use-chatgpt-api-in-python/
