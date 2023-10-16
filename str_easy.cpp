@@ -42,3 +42,12 @@ void itc_first_end_three(string str){
     cout << str[4];
 
 }
+int itc_count_char_in_str(char ch, string  str){
+    int otvet = 0;
+    while(str[i] != 0){
+if(str[i] == 0){
+    otvet = otvet + 1;
+}
+        return otvet;
+    }  
+}                                                 
