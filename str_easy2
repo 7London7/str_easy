@@ -1,3 +1,10 @@
 #include <iostream>
 #include <string>
 #include "streasy.h"
+
+string itc_even_place(string str){
+ while(str[i] != '\0'){
+  if(str[i] Roma
+    
+ }
+}
