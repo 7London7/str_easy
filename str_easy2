@@ -3,8 +3,18 @@
 #include "streasy.h"
 
 string itc_even_place(string str){
+string new;
+int new2 = 0;
  while(str[i] != '\0'){
-  if(str[i] Roma
-    
- }
+  if(str[i] % 2 != 0){
+ new  = new + str[i];
+}else{
+new2 = -1;
 }
+    }
+if(new2 = 0){
+return new;
+}else{
+return -1;
+    }
+ }
