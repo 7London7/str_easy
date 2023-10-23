@@ -1,5 +1,5 @@
-#ifndef STREASY_H_INCLUDED
-#define STREASY_H_INCLUDED
+#ifndef STR_EASY_H_INCLUDED
+#define STR_EASY_H_INCLUDED
 #include <iostream>
 #include <string>
 using namespace std;
@@ -9,4 +9,4 @@ void itc_print_copy_str(string str, int number);
 void itc_first_end_three(string str);
 int itc_count_char_in_str(char ch, string  str);
 
-#endif // STREASY_H_INCLUDED
+#endif // STR_EASY_H_INCLUDED
