@@ -10,4 +10,3 @@ void itc_first_end_three(string str);
 int itc_count_char_in_str(char ch, string  str);
 
 #endif // STREASY_H_INCLUDED
-//https://www.geeksforgeeks.org/how-to-use-chatgpt-api-in-python/
