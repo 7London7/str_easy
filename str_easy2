@@ -18,3 +18,23 @@ return new;
 return -1;
     }
  }
+ double itc_percent_lower_uppercase(string str){
+ int i, otvet;
+ int mini;
+ int maxi;
+ while(str[i] != '\0'){
+        if(str[i] < str[i] + 1){
+    mini = mini + 1;
+        }else{
+   maxi = maxi + 1;     
+        }
+   i++; 
+    }
+    otvet = maxi  / mini;
+ }
+ string itc_reverse_str(string str){
+ int i, k = 0;
+ while(str[i] != '\0'){
+     
+ }
+ }
