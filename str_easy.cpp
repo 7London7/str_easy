@@ -44,10 +44,11 @@ void itc_first_end_three(string str){
 }
 int itc_count_char_in_str(char ch, string  str){
     int otvet = 0;
+    int i = 0;
     while(str[i] != 0){
-if(str[i] == 0){
+if(str[i] == '\0'){
     otvet = otvet + 1;
 }
-        return otvet;
-    }  
+        i++;
+    }   return otvet;
 }                                                 
