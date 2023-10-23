@@ -16,7 +16,7 @@ long long itc_len(string str){
     return k;
 }
 void itc_print_copy_str(string str, int number){
-    while(number != 0){
+    while(number != '\0'){
         cout << str;
         number = number - 1;
     }
@@ -45,7 +45,7 @@ void itc_first_end_three(string str){
 int itc_count_char_in_str(char ch, string  str){
     int otvet = 0;
     int i = 0;
-    while(str[i] != 0){
+    while(str[i] != '\0'){
 if(str[i] == '\0'){
     otvet = otvet + 1;
 }
