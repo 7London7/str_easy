@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include "streasy.h"
+#include "str_easy.h"
 using namespace std;
 
 string itc_hello_str(string name){
