@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include "streasy.h"
+#include "str_easy.h"
 
 string itc_even_place(string str){
 string new;
